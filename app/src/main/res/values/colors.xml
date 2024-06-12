@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="card1">#D7D6CB</color>
+
+    //onboarding colors
+    <color name="background">#F0F4F3</color>
+    <color name="buttontext">#50C2C9</color>
+
+    //indicator color
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#50C2C9</color>
+
+    //tab home
+    <color name="home_bg">#68a0b0</color>
+    <color name="text_or_icon">#FFFFFF</color>
+    <color name="text_or_icon_dark">#080808</color>
+    <color name="secondary_text">#fbf6f3</color>
+    <color name="db_item1">#226760</color>
+    <color name="db_item2">#D7D6CB</color>
+    <color name="db_item3">#FBF6F3</color>
+    <color name="db_item4">#BF382A</color>
+
+
+    //tab profile
+    <color name="profile_bg">#8A8FA0</color>
+    <color name="profile1">#4B5A73</color>
+    <color name="profile2">#FBDDC8</color>
+    <color name="profile3">#529A88</color>
+    <color name="profile4">#C5CFB8</color>
+    <color name="profile5">#C4C0AD</color>
+    <color name="profile6">#A9355E</color>
+</resources>

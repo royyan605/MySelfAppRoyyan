@@ -1,0 +1,42 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/aboutapps_layout_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/aboutme_layout_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/activities_row.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/activity_my_location.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/activity_splash_screen.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/activity_walkthrough.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/contact_layout_dialog.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/dream_layout_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/findme_layout_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/food_layout_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/fragment_gallery.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/fragment_music.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/fragment_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/fragment_tab_activity.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/fragment_tab_friendlist.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/fragment_tab_music.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/fragment_tab_video.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/friendlist_card.xml" value="0.6" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/friendlist_category.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/gallery_container.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/hobby_layout_dialog.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/interest_layout_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/music_row.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/slider_layout.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/layout/video_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/MYSELF/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

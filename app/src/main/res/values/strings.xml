@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Royyan</string>
+
+    <string name="profile_desc">Unikom</string>
+    <string name="email">royyandesign@gmail.com</string>
+    <string name="nim">10120803</string>
+    <string name="aboutmetext">My name is Royyan, born in Royyan on 22nd March 2001.
+        I study Informatics Engineering at Universitas Komputer Indonesia, currently in 8th
+        semester.</string>
+
+    <string name="aboutapp">The sole purpoes of creating this apps is as a requirement to pass the mid-semester exam. Whole app created in Java Language in Android Studio"</string>
+
+    //Headings
+    <string name="heading_one">Knows Me Better</string>
+    <string name="heading_two">My Interests n Dream</string>
+    <string name="heading_three">One Day in My Life</string>
+    <string name="heading_fourth">Get to Know My Friends</string>
+
+    //Description
+    <string name="desc_one">Knows basic information about the creator of this app</string>
+    <string name="desc_two">You will get to see all the interests and dream that i have, plus whether i achieve it or not</string>
+    <string name="desc_three">Follow me as i do my daily activities, and see how i spend most of my days</string>
+    <string name="desc_fourth">You will also get to see the people surround me, which is my friends.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="daily_activities">
+        <item>Bangun Pagi</item>
+        <item>Mandi dan Sarapan</item>
+        <item>Kuliah Pagi</item>
+        <item>Makan Siang</item>
+        <item>Kuliah Siang</item>
+        <item>Lari Sore</item>
+        <item>Mandi dan Makan Malam</item>
+        <item>Hiburan</item>
+        <item>Tidur</item>
+    </string-array>
+
+    <string-array name="desc_activities">
+        <item>Bangun pagi supaya rejeki nya gak dipatok ayam.</item>
+        <item>Mandi kalau rajin, kalau sarapan sih wajib</item>
+        <item>Kuliah pagi atau belajar mandiri</item>
+        <item>Makan siang depan laptop sambil nonton Youtube</item>
+        <item>Lanjut kuliah atau belajar mandiri</item>
+        <item>Olahraga sedikit, bisa jogging atau stretching</item>
+        <item>Mandi sore abis itu baru makan malam.</item>
+        <item>Main keluar, main game atau nonton film</item>
+        <item>Goodnight and have a nice dream!</item>
+
+    </string-array>
+
+    <string-array name="list_music">
+        <item>Red Hot Chili Peppers - Give It Away</item>
+        <item>Foo Fighters - Everlong</item>
+        <item>Foo Fighters - My Hero</item>
+        <item>Dido - White Flag</item>
+        <item>Damien Rice - Delicate</item>
+        <item>Alice in Chains - Man In The Box</item>
+        <item>Stone Temple Pilot - Plush</item>
+        <item>Alanis Morisette - Thank You</item>
+        <item>RHCP - Around The World</item>
+        <item>Maroon 5 - Just A Feeling</item>
+    </string-array>
+
+    // youtube videos
+    <string-array name="list_videos">
+        <item>video1</item>
+        <item>video2</item>
+        <item>video3</item>
+        <item>video4</item>
+        <item>video5</item>
+        <item>video6</item>
+        <item>video7</item>
+
+    </string-array>
+    <string name="video1">LiwBdhLHvcI</string>
+    <string name="video2">2BsTkq35TrA</string>
+    <string name="video3">od_PmtmMDV0</string>
+    <string name="video4">evsh1qa6eoc</string>
+    <string name="video5">IU-lJcy3zrw</string>
+    <string name="video6">PSmU7oE-n4Y</string>
+    <string name="video7">2e5tAlelJXc</string>
+    <string name="title_activity_my_location">MyLocationActivity</string>
+</resources>
